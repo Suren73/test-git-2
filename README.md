@@ -4,3 +4,10 @@
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name] / git remote -v / git branch
    // git reset / git diff / git reset --hard
+
+   main
+   develop
+   feature/main-page
+   feature/about-company
+
+   git branch [branch_name] / git checkout [branch_name]
