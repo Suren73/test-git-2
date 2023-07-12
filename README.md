@@ -11,3 +11,9 @@
    feature/about-company
 
    git branch [branch_name] / git checkout [branch_name]
+
+   git merge
+
+   git branch -d [branch_name]
+
+   git pull [rep_link] [branch_name]
